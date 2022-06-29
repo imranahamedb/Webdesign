@@ -4,8 +4,8 @@
 }
 
 .main{
-    width:1350px;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images/imac.jpg);
+    width:100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(images/imac.jpg);
     background-position: center;
     background-size: cover;
     height:700px;
